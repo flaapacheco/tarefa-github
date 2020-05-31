@@ -10,7 +10,7 @@ Nome: tarefa-github
 ##### 2. Clonar repositório remoto para máquina
 git clone https://github.com/flaapacheco/tarefa-github
 
-##### 3. Alterar o diretório corrente para a pasta exercicio-03
+##### 3. Alterar o diretório corrente para a pasta tarefa-github
 cd tarefa-github
 
 ##### 4. Adicionar os arquivos .py de interesse
@@ -26,3 +26,4 @@ git pull
 git push
 
 ##### 8. Tarefa concluída
+exit
